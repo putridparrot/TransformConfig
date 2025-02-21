@@ -1,2 +1,4 @@
-# TransformConfig
-Transforms configuration files such as appsettings.json via a command line tool
+# Transform Config
+
+Transforms configuration files by merging the appsettings.{env}.json file with the appsettings.json file.
+
